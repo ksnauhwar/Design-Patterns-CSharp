@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{0F9D7A32-011B-418E-9908-426EB40F1F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenter", "Presenter\Presenter.csproj", "{2067587A-84E7-4E5B-ABCD-B0013453EF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9D7A32-011B-418E-9908-426EB40F1F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9D7A32-011B-418E-9908-426EB40F1F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9D7A32-011B-418E-9908-426EB40F1F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9D7A32-011B-418E-9908-426EB40F1F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2067587A-84E7-4E5B-ABCD-B0013453EF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2067587A-84E7-4E5B-ABCD-B0013453EF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2067587A-84E7-4E5B-ABCD-B0013453EF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2067587A-84E7-4E5B-ABCD-B0013453EF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267E0C51-4D6A-4A63-A18A-4316F5AE09C3}
+	EndGlobalSection
+EndGlobal
